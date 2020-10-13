@@ -1,7 +1,3 @@
+# Exclude list
 .pdf
-
-.json
-
-/Wallpapers
-
-/node_modules
+Wallpapers
