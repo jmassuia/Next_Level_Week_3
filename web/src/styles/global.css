@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    color:#fff;
+    background:#ebf2f5;
+}
+
+body, input, textarea,button{
+    font: 600 18px Nunito,sans-serif;
+}
+div.App h1{
+    color:black;
+}
